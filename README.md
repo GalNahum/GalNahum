@@ -1,3 +1,5 @@
+![G.N Software Solutions README.md file cover image](cover-image-readme.png)
+
 ### Hi there 👋
 
 <!--
