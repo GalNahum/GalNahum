@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+I’m Gal, I work as a Front-end\ Full stack Web Developer Freelancer. PHP, JavaScript and Node.js. WordPress Expert. Specializing in pixel perfect web applications, alongside complex systems troubleshooting, security, and quality delivery focused.
+
+Me and my team are responsible for worldwide scale products developing, products you most likely use on a daily basis, therefore due to customers' IPs 99% of my portfolio repositories are under a private mode, so for any questions you may have, please feel free to contact me.
+
 <!--
 **GalNahum/GalNahum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
